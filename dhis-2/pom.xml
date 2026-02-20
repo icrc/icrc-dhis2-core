@@ -87,7 +87,7 @@
     <dhis-json-tree.version>1.8.1</dhis-json-tree.version>
 
     <!-- Security -->
-    <spring-security.version>5.8.16</spring-security.version>
+    <spring-security.version>6.3.8</spring-security.version>
     <spring-security-oauth2.version>2.5.2.RELEASE</spring-security-oauth2.version>
     <spring-security-jwt.version>1.1.1.RELEASE</spring-security-jwt.version>
     <bcprov-jdk15on.version>1.70</bcprov-jdk15on.version>
@@ -97,7 +97,7 @@
     <com.google.zxing.javase.version>3.5.3</com.google.zxing.javase.version>
 
     <!-- Spring -->
-    <spring.version>5.3.39</spring.version>
+    <spring.version>6.1.20</spring.version>
     <spring-data-redis.version>2.7.18</spring-data-redis.version>
     <spring-session-data-redis.version>2.7.4</spring-session-data-redis.version>
     <spring-mobile-device.version>1.1.5.RELEASE</spring-mobile-device.version>
@@ -122,7 +122,7 @@
     <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
 
     <!-- Struts -->
-    <struts.version>2.5.33</struts.version>
+    <struts.version>6.8.0</struts.version>
     <velocity.version>1.7</velocity.version>
     <velocity-tools.version>2.0</velocity-tools.version>
 
@@ -142,7 +142,7 @@
     <jclouds.version>2.7.0</jclouds.version>
 
     <!-- Reporting -->
-    <jasperreports.version>6.20.0</jasperreports.version>
+    <jasperreports.version>7.0.3</jasperreports.version>
     <jfreechart.version>1.0.19</jfreechart.version>
     <jfreechart-common.version>1.0.23</jfreechart-common.version>
     <htmlparser.version>2.1</htmlparser.version>
@@ -200,7 +200,7 @@
     <micrometer.version>1.12.13</micrometer.version>
 
     <!-- Logging -->
-    <log4j.version>2.25.1</log4j.version>
+    <log4j.version>2.25.3</log4j.version>
     <slf4j.version>1.7.36</slf4j.version>
 
     <!-- Test -->
